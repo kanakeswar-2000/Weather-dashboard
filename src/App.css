@@ -49,14 +49,16 @@
   cursor:pointer;
 }
 .fav-city{
- margin:10px;
+ margin-right:10px;
  cursor:pointer;
+ margin-bottom:10px;
 }
 
 .removeBtn{
   border:none;
   border-radius:10px;
   padding:5px;
+  margin-bottom:10px;
   color:white;
   background-color: crimson;
   cursor:pointer;

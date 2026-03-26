@@ -7,7 +7,7 @@ const Favorites = () => {
   const dispatch = useDispatch();
 
   return (
-    <div>
+    <div classNamem="">
       <h3>Favorites</h3>
       {cities.map((city) => (
         <div key={city}>
